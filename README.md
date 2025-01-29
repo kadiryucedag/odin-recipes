@@ -1,1 +1,2 @@
 # odin-recipes
+This is going to be the first project that I've ever created. I've come a short but hard way, and a lot to go. However I am certain that it is going to end well. Understanding concepts was generally easy, but I find it hard to grasp git and the terminal. Maybe it's because I have been using GUI for years. I am confident that I'll understand this usage as well!
