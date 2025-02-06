@@ -1,0 +1,38 @@
+body {
+    background-color: bisque;
+    font-family: Georgia, Garamond, sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.recipe {
+    text-align: left;
+}
+
+h1 {
+    color: rgb(27, 122, 100);
+}
+
+h2, h3 {
+    color: rgb(27, 122, 100);
+    margin-left: 25px;
+}
+
+ul, ol {
+    border: 1px solid black;
+    border-radius: 2em;
+    padding: 14px;
+    list-style-type: none;
+}
+
+.description {
+    border: 1px solid black;
+    border-radius: 2em;
+    padding: 14px;
+    list-style-type: none;
+}
